@@ -1,15 +1,11 @@
-# **🚨🚨 REMINDER TO APPLY FOR SCAI OFFICER POSITIONS 🚨🚨  **
+# **🚨📣 NEURAL NETWORKS VIRTUAL WORKSHOP 6/23 📣🚨**
 
 
-Hello @everyone, This is a reminder to fill out applications to join the SCAI core team. We have lots in store for the upcoming semester, and your support is crucial to make it a success for all!
+Hello @everyone, We are excited to announce our first virtual workshop of the summer this Sunday, June 23rd at 7:30 PM. The workshop will be hosted in the Event Room on our discord.
+In this workshop we will explore the fundamental concepts of neural networks, starting with the basics and progressing through key models like the Perceptron, Multi-Layer Perceptron (MLP) and Convolutional Neural Networks (CNNs).
 
-Following are the current positions open:
-- Outreach Officer
-- Mentor/Project Manager
-- Graphic Designer
-- Events Coordinator
-- Technical Officer
+From this workshop, you will gain hands-on experience with these powerful tools, learning how they can be applied to solve real-world problems in areas such as image recognition and data classification. Whether you're new to neural networks or looking to deepen your understanding, this workshop is designed to equip you with practical skills and insights. 
 
-If you believe you can contribute your skillset to any of the above positions, make sure to apply ASAP by this Friday May 24th, 11:59 PM‼️
+‼️  SUNDAY JUNE 23RD, 7:30 PM. MARK YOUR CALENDARS. ‼️
 
-Application Link: https://forms.office.com/r/bNzZArRb2h
+
